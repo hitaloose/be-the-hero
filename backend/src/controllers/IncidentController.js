@@ -26,14 +26,14 @@ module.exports = {
     const { title, description, value } = req.body
     const ong_id = req.headers.authorization
 
-    const [id] = await database('incidents').insert({
+    const result = await database('incidents').insert({
       title,
       description,
       value,
       ong_id
     })
 
-    return res.status(201).json({ id })
+    return res.status(201).json(result)
   },
   async delete(req, res) {
     const { id } = req.params
