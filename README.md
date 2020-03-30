@@ -18,6 +18,8 @@ O aplicativo foi desenvolvido com o conceito MVC, onde temos um Backend, que faz
 O Backend foi feito usando [Nodejs](https://github.com/nodejs/node). Algumas dependências principais usadas foram, [Express](https://github.com/expressjs/express) para controle de rotas e [Knex](https://github.com/knex/knex) como query builder.
 Para o teste das rotas foi usado o programa [Insomnia](https://github.com/Kong/insomnia), na pasta do Backend temos uma pasta docs, onde contém as rotas para serem importada para o Insomnia.
 
+O backend pode ser acesso [aqui](https://hitaloose-be-the-hero.herokuapp.com/)
+
 ### Frontend
 O Frontend foi feito usando [React](https://github.com/facebook/react). As estilizações foram feitas usando CSS puro. Algumas dependencias usandas foram, [React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom), para controle de rotas dentro das páginas e [Axios](https://github.com/axios/axios) para fazer requisições ao Backend.
 
