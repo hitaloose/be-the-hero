@@ -24,7 +24,14 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
-    }
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hitaloose.bethehero",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.hitaloose.bethehero",
+      "versionCode": 1
+    },
+    "description": ""
   }
 }
