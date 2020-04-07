@@ -36,6 +36,8 @@ O frontend pode ser acessado [aqui](https://hitaloose-be-the-hero.netlify.com/).
 
 O Aplicativo mobile foi feito usando [React Native](https://github.com/facebook/react-native), foi utilizado [Expo](https://github.com/expo/expo) para ambiente de desenvolvimento. Algumas dependências usadas foram, [React Native Navigation](https://github.com/wix/react-native-navigation), para controle de navegação entre páginas, e [Axios](https://github.com/axios/axios) para fazer requisições ao Backend.
 
+Donwload do apk [aqui](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40hitaloose/beTheHero-1628d1ee7d6048e0b874872f16602159-signed.apk)
+
 ## Certificado
 
 Nessa edição da semana onmistack foi fornecido um certificado de desempenho.
