@@ -43,5 +43,5 @@ Donwload do apk [aqui](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/a
 Nessa edição da semana onmistack foi fornecido um certificado de desempenho.
 
 <div align="center">
-    <img alt="BeTheHeroLogo" title="#delicinha" src="backend/docs/certificado.jpg" width="200px" />
+    <img alt="BeTheHeroLogo" title="#delicinha" src="backend/docs/certificado.jpg" width="600px" />
 </div>
