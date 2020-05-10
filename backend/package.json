@@ -1,14 +1,21 @@
 {
   "scripts": {
-    "dev": "nodemon src/index.js",
-    "start": "node src/index.js"
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js",
+    "test": "cross-env NODE_ENV=test jest"
   },
   "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.3.0",
+    "sqlite3": "^4.1.1",
+    "supertest": "^4.0.2"
+  },
   "dependencies": {
     "cors": "^2.8.5",
+    "cross-env": "^7.0.2",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "knex": "^0.20.13",
